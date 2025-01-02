@@ -1,8 +1,12 @@
 .block-heading{
-	text-align:center;
+	color:#3b99e0;
 }
 .product > .row > .col1{
 	display:flex;
 	justify-content:space-between;
 	align-items:center;
+	padding:0px;
+}
+.product > .row > .col1 > p{
+	margin:0px;
 }
