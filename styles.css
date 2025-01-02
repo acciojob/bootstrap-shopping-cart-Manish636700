@@ -13,6 +13,8 @@
 	border-top:5px solid #5ea4f3;
 }
 .product{
-	width:auto;
-	height:auto;
+	font-size:10px;
+}
+p{
+	margin:0px;
 }
