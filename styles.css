@@ -13,8 +13,7 @@
 	border-top:5px solid #5ea4f3;
 }
 .product{
-	font-size:10px;
-}
-p{
-	margin:0px;
+	display:flex;
+	justify-content:space-between;
+	text-align:center;
 }
